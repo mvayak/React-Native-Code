@@ -1,0 +1,7 @@
+const UPDATE_SKIPPED_INTRO = 'app/help/UPDATE_SKIPPED_INTRO';
+const UPDATE_DONE_INTRO = 'app/help/UPDATE_DONE_INTRO';
+
+export default {
+  UPDATE_SKIPPED_INTRO,
+  UPDATE_DONE_INTRO,
+};

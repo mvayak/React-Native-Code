@@ -1,0 +1,301 @@
+@font-face {
+  font-family: "lorylist-icon-font";
+  src: url("../font/lorylist-icon-font.eot");
+  src: url("../font/lorylist-icon-font.eot?mcvzhy#iefix") format("embedded-opentype"),
+      url("../font/lorylist-icon-font.woff2?mcvzhy") format("woff2"),
+      url("../font/lorylist-icon-font.woff?mcvzhy") format("woff"),
+      url("../font/lorylist-icon-font.ttf?mcvzhy") format("truetype"),
+      url("../font/lorylist-icon-font.svg?mcvzhy#lorylist-icon-font") format("svg");
+  font-style: normal;
+  font-weight: 400;
+}
+
+.icon {
+  display: inline-block;
+  font-family: "lorylist-icon-font" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  vertical-align: -.125em;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-add-circle::before {
+  content: "\ea01";
+}
+.icon-add-person::before {
+  content: "\ea02";
+}
+.icon-add-to-basket::before {
+  content: "\ea03";
+}
+.icon-bookmark::before {
+  content: "\ea04";
+}
+.icon-camera::before {
+  content: "\ea05";
+}
+.icon-check-circle::before {
+  content: "\ea06";
+}
+.icon-chevron-down::before {
+  content: "\ea07";
+}
+.icon-chevron-left::before {
+  content: "\ea08";
+}
+.icon-chevron-right::before {
+  content: "\ea09";
+}
+.icon-chevron-up::before {
+  content: "\ea0a";
+}
+.icon-cloud-download::before {
+  content: "\ea0b";
+}
+.icon-code::before {
+  content: "\ea0c";
+}
+.icon-cook-hat::before {
+  content: "\ea0d";
+}
+.icon-dashboard::before {
+  content: "\ea0e";
+}
+.icon-discover::before {
+  content: "\ea0f";
+}
+.icon-edit-text::before {
+  content: "\ea10";
+}
+.icon-empty-shopping-list::before {
+  content: "\ea11";
+}
+.icon-facebook::before {
+  content: "\ea12";
+}
+.icon-facebook-icon::before {
+  content: "\ea13";
+}
+.icon-filter::before {
+  content: "\ea14";
+}
+.icon-hand::before {
+  content: "\ea15";
+}
+.icon-heart::before {
+  content: "\ea16";
+}
+.icon-heart-filled::before {
+  content: "\ea17";
+}
+.icon-history::before {
+  content: "\ea18";
+}
+.icon-history-clock::before {
+  content: "\ea19";
+}
+.icon-home::before {
+  content: "\ea1a";
+}
+.icon-id-card::before {
+  content: "\ea1b";
+}
+.icon-info-circle::before {
+  content: "\ea1c";
+}
+.icon-instagram::before {
+  content: "\ea1d";
+}
+.icon-intro::before {
+  content: "\ea1e";
+}
+.icon-leaf::before {
+  content: "\ea1f";
+}
+.icon-link::before {
+  content: "\ea20";
+}
+.icon-list::before {
+  content: "\ea21";
+}
+.icon-long-arrow-down::before {
+  content: "\ea22";
+}
+.icon-long-arrow-right::before {
+  content: "\ea23";
+}
+.icon-long-check::before {
+  content: "\ea24";
+}
+.icon-menu-bars::before {
+  content: "\ea25";
+}
+.icon-message::before {
+  content: "\ea26";
+}
+.icon-minus::before {
+  content: "\ea27";
+}
+.icon-money-pig::before {
+  content: "\ea28";
+}
+.icon-more::before {
+  content: "\ea29";
+}
+.icon-more-horizontal::before {
+  content: "\ea2a";
+}
+.icon-notifications::before {
+  content: "\ea2b";
+}
+.icon-nv-cholesterol::before {
+  content: "\ea2c";
+}
+.icon-nv-dietary-fiber::before {
+  content: "\ea2d";
+}
+.icon-nv-energy::before {
+  content: "\ea2e";
+}
+.icon-nv-fat::before {
+  content: "\ea2f";
+}
+.icon-nv-kcal::before {
+  content: "\ea30";
+}
+.icon-nv-monounsaturated-fat::before {
+  content: "\ea31";
+}
+.icon-nv-polyunsaturated-fat::before {
+  content: "\ea32";
+}
+.icon-nv-potassium::before {
+  content: "\ea33";
+}
+.icon-nv-protein::before {
+  content: "\ea34";
+}
+.icon-nv-saturated-fat::before {
+  content: "\ea35";
+}
+.icon-nv-sodium::before {
+  content: "\ea36";
+}
+.icon-nv-sugar::before {
+  content: "\ea37";
+}
+.icon-nv-total-carbohydrate::before {
+  content: "\ea38";
+}
+.icon-nv-trans-fat::before {
+  content: "\ea39";
+}
+.icon-package::before {
+  content: "\ea3a";
+}
+.icon-parking-spot::before {
+  content: "\ea3b";
+}
+.icon-phone::before {
+  content: "\ea3c";
+}
+.icon-play::before {
+  content: "\ea3d";
+}
+.icon-plus::before {
+  content: "\ea3e";
+}
+.icon-remove-person::before {
+  content: "\ea3f";
+}
+.icon-rocket::before {
+  content: "\ea40";
+}
+.icon-round-chart::before {
+  content: "\ea41";
+}
+.icon-rows::before {
+  content: "\ea42";
+}
+.icon-sale-sign::before {
+  content: "\ea43";
+}
+.icon-search::before {
+  content: "\ea44";
+}
+.icon-search-tree::before {
+  content: "\ea45";
+}
+.icon-settings::before {
+  content: "\ea46";
+}
+.icon-settings-gear::before {
+  content: "\ea47";
+}
+.icon-share::before {
+  content: "\ea48";
+}
+.icon-shield::before {
+  content: "\ea49";
+}
+.icon-shop::before {
+  content: "\ea4a";
+}
+.icon-shopping-cart::before {
+  content: "\ea4b";
+}
+.icon-sign::before {
+  content: "\ea4c";
+}
+.icon-small-check::before {
+  content: "\ea4d";
+}
+.icon-sorting::before {
+  content: "\ea4e";
+}
+.icon-star::before {
+  content: "\ea4f";
+}
+.icon-tag::before {
+  content: "\ea50";
+}
+.icon-thumb-up::before {
+  content: "\ea51";
+}
+.icon-tiles::before {
+  content: "\ea52";
+}
+.icon-times::before {
+  content: "\ea53";
+}
+.icon-tiny-shop::before {
+  content: "\ea54";
+}
+.icon-trash::before {
+  content: "\ea55";
+}
+.icon-user::before {
+  content: "\ea56";
+}
+.icon-users::before {
+  content: "\ea57";
+}
+.icon-vibrate::before {
+  content: "\ea58";
+}
+.icon-warning-triangle::before {
+  content: "\ea59";
+}
+.icon-whatsapp::before {
+  content: "\ea5a";
+}
+.icon-www::before {
+  content: "\ea5b";
+}

@@ -1,0 +1,5 @@
+const UPDATE_NOTIFICATION_TYPE = 'app/help/UPDATE_NOTIFICATION_TYPE';
+
+export default {
+  UPDATE_NOTIFICATION_TYPE,
+};

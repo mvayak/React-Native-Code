@@ -1,0 +1,20 @@
+rootProject.name = 'LorylistApp'
+include ':react-native-pager-view'
+project(':react-native-pager-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-pager-view/android')
+include ':react-native-webview'
+project(':react-native-webview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview/android')
+include ':amazon-cognito-identity-js'
+project(':amazon-cognito-identity-js').projectDir = new File(rootProject.projectDir, '../node_modules/amazon-cognito-identity-js/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':react-native-interactable'
+project(':react-native-interactable').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-interactable/lib/android')
+include ':react-native-camera'
+project(':react-native-camera').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-camera/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+// include ':react-native-pager-view'
+// project(':react-native-pager-view').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-pager-view/android')
+
+include ':reactnativepagerview'
+project(':reactnativepagerview').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-pager-view/android')
+include ':app'
